@@ -1,4 +1,4 @@
- 👋 Hi, I’m @Coder-AQ
+ 👋 Hi, I’m @Coder.AQ
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on ...

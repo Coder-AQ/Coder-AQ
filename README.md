@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on linkedin aniqa A.R
+- 📫 How to reach me on linkedin aniqa.
 - 😄 Pronouns: she / her
 
 <!---
